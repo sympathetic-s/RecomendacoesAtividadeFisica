@@ -12,5 +12,5 @@ Projeto realizado através dos primeiros passos com HTML e CSS.
 
 ## Feito por: 
 #### Samuel Ferreira
-#### Linkedin:https://www.linkedin.com/in/samuel-f24/
+#### Linkedin: https://www.linkedin.com/in/samuel-f24/
 
