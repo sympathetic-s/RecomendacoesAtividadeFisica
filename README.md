@@ -14,3 +14,7 @@ Projeto realizado através dos primeiros passos com HTML e CSS.
 #### Samuel Ferreira
 #### Linkedin: https://www.linkedin.com/in/samuel-f24/
 
+
+## Referências
+
+[ ] github pages
